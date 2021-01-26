@@ -1,0 +1,23 @@
+.logo{
+    width: 100px;
+    height: 50px;
+}
+.form{
+    width: 500px;
+    margin: auto;
+}
+
+.bttn{
+
+    background: none repeat scroll 0 0 #F0563D;
+    border: medium none;
+    color: #fff !important;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1;
+    padding: 10px 15px;
+    position: relative;
+    text-shadow: none;
+}
